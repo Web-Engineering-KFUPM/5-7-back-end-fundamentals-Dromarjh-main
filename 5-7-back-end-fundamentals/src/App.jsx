@@ -23,7 +23,6 @@ LAB SETUP INSTRUCTIONS
 4. Start the back-end server from a separate terminal, path: 5-7-back-end-fundamentals-Dromarjh-main\5-7-back-end-fundamentals\backend:
    Run:
       node server.js
-  Note: Start the back-end server after creating the server in server.js file.
 
   If your system blocks running npm commands (especially on Windows PowerShell),
    run this command first to allow script execution:
